@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 To Kill a Mockingbird
+=======
+Educated
+>>>>>>> wish_to
